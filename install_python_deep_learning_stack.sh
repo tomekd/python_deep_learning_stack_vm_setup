@@ -18,6 +18,9 @@ sudo apt-get install git
 # install gfortran
 sudo apt-get install gfortran
 
+# install HDF5
+sudo apt-get install libhdf5-dev
+
 # install openblas
 # remove openblas if you installed it
 sudo apt-get remove libopenblas-base 
